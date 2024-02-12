@@ -1,0 +1,10 @@
+html {
+    margin: 0;
+}
+
+#RobotHero {
+    background-image: url(/img/img3.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
